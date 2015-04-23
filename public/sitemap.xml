@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2015-04-23T16:01:31+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/partner/</loc>
+    <lastmod>2015-04-23T16:01:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/Cooperation/</loc>
+    <lastmod>2015-04-23T15:58:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/join/</loc>
+    <lastmod>2015-04-23T15:56:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/media/</loc>
+    <lastmod>2015-04-23T15:55:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2015-04-23T15:54:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/activity/ahello/</loc>
+    <lastmod>2015-04-21T22:58:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/activity/aworld/</loc>
+    <lastmod>2015-04-21T22:58:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/equipment/</loc>
+    <lastmod>2015-04-21T14:48:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/member/</loc>
+    <lastmod>2015-04-21T14:48:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/ni/</loc>
+    <lastmod>2015-04-21T11:57:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/world/</loc>
+    <lastmod>2015-04-21T11:57:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/hello/</loc>
+    <lastmod>2015-04-21T11:54:53+08:00</lastmod>
+  </url>
+  
+</urlset>

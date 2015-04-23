@@ -1,0 +1,7 @@
+baseurl = "http://yourSiteHere/"
+languageCode = "en-us"
+title = "makerpapa"
+theme = "thmpa"
+
+[indexes]
+    category = "categories"

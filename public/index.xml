@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>makerpapa</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on makerpapa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Apr 2015 16:01:31 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>partner</title>
+      <link>http://localhost:1313/partner/</link>
+      <pubDate>Thu, 23 Apr 2015 16:01:31 +0800</pubDate>
+      
+      <guid>http://localhost:1313/partner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cooperation</title>
+      <link>http://localhost:1313/Cooperation/</link>
+      <pubDate>Thu, 23 Apr 2015 15:58:45 +0800</pubDate>
+      
+      <guid>http://localhost:1313/Cooperation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>join</title>
+      <link>http://localhost:1313/join/</link>
+      <pubDate>Thu, 23 Apr 2015 15:56:12 +0800</pubDate>
+      
+      <guid>http://localhost:1313/join/</guid>
+      <description>&lt;p&gt;加入我们&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>media</title>
+      <link>http://localhost:1313/media/</link>
+      <pubDate>Thu, 23 Apr 2015 15:55:58 +0800</pubDate>
+      
+      <guid>http://localhost:1313/media/</guid>
+      <description>&lt;p&gt;媒体报道&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 23 Apr 2015 15:54:35 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;关于我们&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ahello</title>
+      <link>http://localhost:1313/activity/ahello/</link>
+      <pubDate>Tue, 21 Apr 2015 22:58:24 +0800</pubDate>
+      
+      <guid>http://localhost:1313/activity/ahello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aworld</title>
+      <link>http://localhost:1313/activity/aworld/</link>
+      <pubDate>Tue, 21 Apr 2015 22:58:04 +0800</pubDate>
+      
+      <guid>http://localhost:1313/activity/aworld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>equipment</title>
+      <link>http://localhost:1313/equipment/</link>
+      <pubDate>Tue, 21 Apr 2015 14:48:54 +0800</pubDate>
+      
+      <guid>http://localhost:1313/equipment/</guid>
+      <description>&lt;p&gt;我们设备很nb&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>member</title>
+      <link>http://localhost:1313/member/</link>
+      <pubDate>Tue, 21 Apr 2015 14:48:38 +0800</pubDate>
+      
+      <guid>http://localhost:1313/member/</guid>
+      <description>&lt;p&gt;不加会员弄死你&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ni</title>
+      <link>http://localhost:1313/blog/ni/</link>
+      <pubDate>Tue, 21 Apr 2015 11:57:47 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/ni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>world</title>
+      <link>http://localhost:1313/blog/world/</link>
+      <pubDate>Tue, 21 Apr 2015 11:57:06 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hello</title>
+      <link>http://localhost:1313/blog/hello/</link>
+      <pubDate>Tue, 21 Apr 2015 11:54:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/hello/</guid>
+      <description>&lt;p&gt;this should be the first blog!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
